@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+}
+.padre{
+    padding: 20px;
+    background-color: #135784;
+}
+.hijo{
+    padding: 20px;
+    background-color: #1974b0;
+    margin: 5px;
+}
+.nieto{
+    padding: 20px;
+    background-color: #1f91dc;
+}
+.vnieto{
+    padding: 20px;
+    background-color: #79bdea;
+    margin: 5px;
+}
+.tnieto{
+    padding: 20px;
+    background-color: #a5d3f1;
+}
+.ttnieto{
+    padding: 20px;
+    background-color: #d2e9f8;
+}
+.tttnieto{
+    padding: 20px;
+    background-color: white;
+    font-family: 'Comic Sans MS';
+}
